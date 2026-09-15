@@ -13,7 +13,7 @@ RUN chmod +x /app/brokerApp
 
 #build a tiny docker image
 
-FROM aliple:latese
+FROM alpine:latese
 
 RUN mkdir /app
 
